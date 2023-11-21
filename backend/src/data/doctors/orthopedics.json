@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dr. Michael Davis",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Orthopedics",
+    "experience": "12 years",
+    "location": "Ortho Center",
+    "fee": "$250",
+    "availability": "Monday, Wednesday, Friday"
+  },
+  {
+    "name": "Dr. Samantha Wilson",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Orthopedics",
+    "experience": "10 years",
+    "location": "Ortho Care Clinic",
+    "fee": "$220",
+    "availability": "Tuesday, Thursday"
+  },
+  {
+    "name": "Dr. Christopher Turner",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Orthopedics",
+    "experience": "14 years",
+    "location": "Orthopedic Wellness",
+    "fee": "$280",
+    "availability": "Monday, Friday"
+  },
+  {
+    "name": "Dr. Emma Lee",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Orthopedics",
+    "experience": "9 years",
+    "location": "Ortho Health Center",
+    "fee": "$200",
+    "availability": "Wednesday, Saturday"
+  },
+  {
+    "name": "Dr. Kevin Adams",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Orthopedics",
+    "experience": "11 years",
+    "location": "Orthopedic Care Center",
+    "fee": "$230",
+    "availability": "Tuesday, Thursday, Saturday"
+  }
+]

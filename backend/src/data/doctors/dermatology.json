@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dr. Emily Johnson",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Dermatology",
+    "experience": "8 years",
+    "location": "Skin Care Clinic",
+    "fee": "$150",
+    "availability": "Tuesday, Thursday, Saturday"
+  },
+  {
+    "name": "Dr. James White",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Dermatology",
+    "experience": "11 years",
+    "location": "Dermatology Center",
+    "fee": "$180",
+    "availability": "Monday, Wednesday, Friday"
+  },
+  {
+    "name": "Dr. Olivia Martinez",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Dermatology",
+    "experience": "14 years",
+    "location": "Healthy Skin Clinic",
+    "fee": "$220",
+    "availability": "Wednesday, Saturday"
+  },
+  {
+    "name": "Dr. Daniel Harris",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Dermatology",
+    "experience": "9 years",
+    "location": "Dermatology Wellness",
+    "fee": "$200",
+    "availability": "Monday, Thursday"
+  },
+  {
+    "name": "Dr. Sophia Miller",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Dermatology",
+    "experience": "12 years",
+    "location": "Beautiful Skin Center",
+    "fee": "$190",
+    "availability": "Tuesday, Friday"
+  }
+]

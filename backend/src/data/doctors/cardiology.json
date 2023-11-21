@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dr. John Smith",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Cardiology",
+    "experience": "10 years",
+    "location": "City Hospital",
+    "fee": "$200",
+    "availability": "Monday, Wednesday, Friday"
+  },
+  {
+    "name": "Dr. Sarah Johnson",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Cardiology",
+    "experience": "8 years",
+    "location": "Heart Clinic",
+    "fee": "$180",
+    "availability": "Tuesday, Thursday"
+  },
+  {
+    "name": "Dr. Robert Davis",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Cardiology",
+    "experience": "15 years",
+    "location": "Cardio Center",
+    "fee": "$250",
+    "availability": "Monday, Friday"
+  },
+  {
+    "name": "Dr. Emily Carter",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Cardiology",
+    "experience": "12 years",
+    "location": "Heart Health Clinic",
+    "fee": "$220",
+    "availability": "Wednesday, Saturday"
+  },
+  {
+    "name": "Dr. Michael Brown",
+    "image": "https://www.shutterstock.com/image-photo/portrait-group-happy-doctors-nurses-600nw-1931575703.jpg",
+    "specialty": "Cardiology",
+    "experience": "9 years",
+    "location": "Heart Care Center",
+    "fee": "$190",
+    "availability": "Tuesday, Thursday, Saturday"
+  }
+]

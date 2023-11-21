@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Cardiology",
+    "image": "https://img.freepik.com/free-vector/human-heart-disease-symbol_1308-107392.jpg",
+      "description": "Cardiology is a branch of medicine that deals with disorders of the heart and blood vessels.",
+      "doctorsFile": "cardiology.json"
+    },
+    {
+      "name": "Dermatology",
+    "image": "https://image.shutterstock.com/image-photo/dermatology-clinic-skilled-female-dermatologist-260nw-1166006287.jpg",
+      "description": "Dermatology is the branch of medicine dealing with the skin, nails, hair, and its diseases.",
+      "doctorsFile": "dermatology.json"
+    },
+    {
+      "name": "Orthopedics",
+    "image": "https://www.shutterstock.com/image-illustration/painful-joints-3d-illustration-260nw-1423051295.jpg",
+      "description": "Orthopedics is the branch of surgery concerned with conditions involving the musculoskeletal system.",
+      "doctorsFile": "orthopedics.json"
+    }
+  ]
+  
