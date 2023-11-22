@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = "https://doctorshere.vercel.app";
 
 const getSpecialties = async () => {
   try {
@@ -9,8 +9,8 @@ const getSpecialties = async () => {
     const data = await response.json();
     return data;
   } catch (error) {
-    console.error('Error fetching specialties:', error);
-    throw error; 
+    console.error("Error fetching specialties:", error);
+    throw error;
   }
 };
 
@@ -18,7 +18,9 @@ const getDoctorsBySpecialty = async (specialty) => {
   try {
     const response = await fetch(`${API_BASE_URL}/doctors/${specialty}`);
     if (!response.ok) {
-      throw new Error(`Failed to fetch doctors for ${specialty}: ${response.statusText}`);
+      throw new Error(
+        `Failed to fetch doctors for ${specialty}: ${response.statusText}`
+      );
     }
     const data = await response.json();
     return data;
