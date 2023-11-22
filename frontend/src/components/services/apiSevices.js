@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://doctorshere.vercel.app";
+const API_BASE_URL = "https://doctorshere-backend.vercel.app";
 
 const getSpecialties = async () => {
   try {
